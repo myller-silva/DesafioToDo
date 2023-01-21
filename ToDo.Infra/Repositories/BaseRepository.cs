@@ -12,9 +12,9 @@ namespace ToDo.Infra.Repositories;
 
 public class BaseRepository<T> : IBaseRepository<T> where T:Base
 {
-    private readonly ManagerContext _context;
+    private readonly ToDoContext _context;
 
-    public BaseRepository(ManagerContext context)
+    public BaseRepository(ToDoContext context)
     {
         _context = context;
     }

@@ -7,8 +7,8 @@ namespace ToDo.Infra.Repositories;
 
 public class UserRepository : BaseRepository<User>, IUserRepository // o balta nao tinha dito que nao pode herdar mais de uma classe/interface no c#? 
 {
-    private readonly ManagerContext _context;
-    public UserRepository(ManagerContext context) : base(context)
+    private readonly ToDoContext _context;
+    public UserRepository(ToDoContext context) : base(context)
     {
         _context = context;
     }

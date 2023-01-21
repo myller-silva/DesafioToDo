@@ -6,48 +6,30 @@
     <projectFile profileName="https">Manager.API/Manager.API.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc786fbc-c226-49b9-ab92-880f117f0b0e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Manager/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Manager/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Manager/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/Controllers/UserController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/Manager.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/ToDo.API.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/Utilities/Responses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/Utilities/Responses.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/ViewModels/CreateUserViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/ViewModels/CreateUserViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/ViewModels/ResultViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/ViewModels/ResultViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/ViewModels/UpdateUserViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/ViewModels/UpdateUserViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Core/Exceptions/DomainException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Core/Exceptions/DomainException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Core/Manager.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Core/ToDo.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Domain/Entities/Base.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Domain/Entities/Base.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Domain/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Domain/Entities/User.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Domain/Manager.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Domain/ToDo.Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Domain/Validators/UserValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Domain/Validators/UserValidator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Context/ManagerContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Context/ManagerContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Interfaces/IBaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Interfaces/IBaseRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Interfaces/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Interfaces/IUserRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Manager.Infra.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/ToDo.Infra.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Mappings/UserMap.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Mappings/UserMap.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Migrations/command_to_create_migration.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Migrations/command_to_create_migration.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Repositories/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Repositories/BaseRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Infra/Repositories/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Repositories/UserRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Services/DTO/UserDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Services/DTO/UserDTO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Services/Interfaces/IUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Services/Interfaces/IUserService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Services/Manager.Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Services/ToDo.Services.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.Services/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Services/Services/UserService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manager.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DesafioToDo.sln" afterDir="false" />
+    <list default="true" id="cc786fbc-c226-49b9-ab92-880f117f0b0e" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Manager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Manager/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.API/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.API/ToDo.API.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/ToDo.API.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.API/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.Infra/Context/ManagerContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Context/ToDoContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.Infra/Repositories/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Repositories/BaseRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.Infra/Repositories/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/Repositories/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo.Infra/ToDo.Infra.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ToDo.Infra/ToDo.Infra.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ToDo.Infra/Context/ManagerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ToDo.Infra/Context/ToDoContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDo.Infra/Repositories/BaseRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDo.Services/DTO/UserDTO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ToDo.Services/Interfaces/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
@@ -56,6 +38,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2KdbF24ewltLzeq1bEbDSaU49QI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -66,6 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -76,7 +60,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Manager.API: IIS Express">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Manager.API: http">
     <configuration name="Manager.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/ToDo.API/ToDo.API.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net7.0" />
@@ -131,15 +115,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674307304579</updated>
-      <workItem from="1674307307921" duration="830000" />
+      <workItem from="1674307307921" duration="2478000" />
     </task>
+    <task id="LOCAL-00001" summary="rename">
+      <created>1674308337922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674308337922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1674308379493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674308379493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="j">
+      <created>1674308459261</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674308459261</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1674308486179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674308486179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1674308507206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674308507206</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="rename" />
+    <MESSAGE value="j" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>

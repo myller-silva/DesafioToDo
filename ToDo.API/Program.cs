@@ -45,8 +45,8 @@ builder.Services.AddSingleton(autoMapperConfig.CreateMapper());
 
 #region DI // injecoes de dependecias
 builder.Services.AddSingleton(d => builder.Configuration);
-builder.Services.AddDbContext<ManagerContext>(
-    options => options.UseSqlServer(builder.Configuration["ConnectionStrings:USER_MANAGER"]), ServiceLifetime.Transient);
+// builder.Services.AddDbContext<ToDoContext>(
+//     options => options.UseSqlServer(builder.Configuration["ConnectionStrings:USER_MANAGER"]), ServiceLifetime.Transient);
 builder.Services.AddScoped<IUserService, UserService>(); //pesquisar sobre isso
 builder.Services.AddScoped<IUserRepository, UserRepository>(); 
 #endregion
